@@ -34,7 +34,7 @@ Fee/VB:     4.010 sat/vByte
 
 Locktime:     0
 
-BTC Price:     $129,067,999.76
+BTC Price:     $81,238.83
 
 This transaction has 1,811 Confirmations. It was mined in Block 889,854
 
