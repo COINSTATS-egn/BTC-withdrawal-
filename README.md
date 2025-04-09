@@ -1,6 +1,4 @@
-<body {background-color: #ADD8E6;} >
-
- # - 6.8 BTC SUCCESSFUL
+# - 6.8 BTC SUCCESSFUL
  
 <img src="IMG_7897.png" alt="Bitcoin Logo" width="200" />
 
