@@ -32,7 +32,7 @@ From:     3 Inputs
 
 To:     210 Outputs
 
-Fee:     0.006 [$479.92]
+Fee:     0.006 [$107]
 Fee/B:     3.876 sat/B
 Fee/VB:     4.010 sat/vByte
 
