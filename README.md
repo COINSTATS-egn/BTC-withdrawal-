@@ -38,6 +38,8 @@ Fee/VB:     4.010 sat/vByte
 
 Locktime:     0
 
+mempool TCJA : bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu [•]
+
 BTC Price:     $81,238.83
 
 This transaction has 1,811 Confirmations. It was mined in Block 889,854
