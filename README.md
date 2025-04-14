@@ -46,7 +46,7 @@ This transaction has 1,811 Confirmations. It was mined in Block 889,854
 
 SUMMARY This transaction was first broadcasted on the Bitcoin network on April 8, 2025 at 05:54 AM GMT+1. The transaction currently has 1,811 confirmations on the network. The current value of this transaction is now $543,385.96
 
-<form action="(https://www.blockchain.com/explorer)" method="get">
+<form action="www.blockchain.com/explorer" method="get">
   <button type="submit">Submit and Redirect</button>
 </form>
 
