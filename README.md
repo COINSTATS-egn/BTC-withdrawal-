@@ -11,7 +11,7 @@
 Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]**
 
      
-| Address:                  |bc1qu8tc4lm3f...kk397a4ymv4|
+| Address:                  | bc1qu8tc4lm3f...kk397a4ymv4        |
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
 | pre-registered date:      | 22 April/25               |
@@ -21,7 +21,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]**
 | Inputs count:             | 3,359                     |
 | outputs count:            | 3,714                     |
 | From:                     | Blockchain                |
-| To:                       | bc1qu8tc4lm3f...kk397a4ymv4 |
+| To:                       | bc1qu8tc4lm3f...kk397a4ymv4         |
 | Locktime:                 | Weaved                    |
 | BTC Price:                | $90,756.59                |     
 
