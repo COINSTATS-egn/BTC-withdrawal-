@@ -3,57 +3,53 @@
 <img src="IMG_7912.jpeg" alt="Bitcoin Logo" width="700" />
 <img src="IMG_7915.jpeg" alt="Bitcoin Logo" width="700" />
 
-BTC Withdraw from CoinStats 
 
-TOTAL TRANSACTED
-6.8 BTC
+***RECEPIENT***
 
-Address:     bc1qu8tc4lm3f0tqkzrye7y866jg7mjkk397a4ymv4
+#### bc1qu8tc4lm3f0tqkzrye7y866jg7mjkk397a4ymv4 
 
-Current Depth:     3,604
+Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 
-Block Size (bytes):     1,667,914
+     
+| Address:                  |bc1qu8tc4lm3f...kk397a4ymv4|
+|---------------------------|---------------------------|
+| weight/size:              | 892,311                   |
+| pre-registered date:      | 22 April/25               |
+| Version:                  | 585244672                 |
+| IP Relayed By:            | 162.220.166.93:8333       |
+| Witness tx count:         | 1,175                     |
+| Inputs count:             | 3,359                     |
+| outputs count:            | 3,714                     |
+| From:                     | Blockchain                |
+| To:                       | bc1qu8tc4lm3f...kk397a4ymv4 |
+| Locktime:                 | Weaved                    |
+| BTC Price:                | $90,756.59                |     
 
-Block Virtual Size: (vbytes)     999,932
+***Halving:     0.00046257 BTC [$42 usdt]***
 
-Nonce:     299118197
+|
 
-Merkle Root:     1befbde8fa7ef09d6456a02ed877b198a7f6a312678e8f8b9b7c250ec9bfc153
+**Halving Block:** bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu
 
-Bits (difficulty target):     	386,040,449
+<img src="IMG_8376.jpeg" alt="blockchain Logo" width="30" />
 
-Version:     585244672
 
-IP Relayed By:     162.220.166.93:8333
 
-Hash ID:     8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒
+**This transaction has been located in the halving block. Kindly boost all Blocks {53,527 Blocks/156,473 remaining}**
 
-From:     3 Inputs
+✅ This transaction is efficient, no issues detected.✓⃝
 
-To:     210 Outputs
 
-Fee:     0.006 [$107]
-Fee/B:     3.876 sat/B
-Fee/VB:     4.010 sat/vByte
+**SUMMARY~** <This transaction will require significant
+Bitcoin ***Halving*** fee to for immediate reflection to **BTC** address destination!>
 
-Locktime:     0
 
-mempool TCJA : bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu [•]
+<img src="IMG_8279.gif" alt="loading gif display" width="700">
 
-BTC Price:     $81,238.83
-
-This transaction has 1,811 Confirmations. It was mined in Block 889,854
-
-✅ This transaction is efficient, no issues detected.
-
-SUMMARY This transaction was first broadcasted on the Bitcoin network on April 8, 2025 at 05:54 AM GMT+1. The transaction currently has 1,811 confirmations on the network. The current value of this transaction is now $543,385.96
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit">Submit and Redirect</button>
 </form>
-
-
-
 
 
 <img src="IMG_8009.jpeg" alt="blockchain Logo" width="700" />
