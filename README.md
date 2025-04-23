@@ -25,7 +25,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]**
 | Locktime:                 | Weaved                    |
 | BTC Price:                | $90,756.59                |     
 
-***Halving:     0.00046257 BTC [$42 usdt]***
+***Halving:     0.00046257 BTC [$22 usdt]***
 
 |
 
