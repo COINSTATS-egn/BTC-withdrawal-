@@ -6,9 +6,9 @@
 
 #### bc1qu8tc4lm3f0tqkzrye7y866jg7mjkk397a4ymv4 
 
-Transaction Hash: **0x7ec8ac921d0e92c[bc1qu8tc4lm3f...kk397a4ymv4]**
+Transaction Hash:**0x7ec8ac921d0e92c[bc1qu8tc4lm3f...kk397a4ymv4]**
 
-<img src="IMG_8741.jpeg" alt="blockchain Logo" width="700" />
+<img src="IMG_8773.jpeg" alt="blockchain Logo" width="700" />
      
 | Address:                  | bc1qu8tc4lm3f...kk397a4ymv4 |
 |---------------------------|---------------------------|
@@ -28,8 +28,6 @@ Transaction Hash: **0x7ec8ac921d0e92c[bc1qu8tc4lm3f...kk397a4ymv4]**
 **Halving Block:** bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f
 
 <img src="IMG_8499.jpeg" alt="blockchain Logo" width="30" />
-
-
 
 **This transaction has failed to connect due to long time of recovery delay**
 
