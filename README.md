@@ -18,7 +18,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[bc1qu8tc4lm3f...kk397a4ymv4]**
 | Witness tx count:         | 1,175                     |
 | Inputs count:             | 3,359                     |
 | outputs count:            | 3,714                     |
-| From:                     | Blockchain                |
+| From:                     | Blockchain                | 
 | To:                       | bc1qu8tc4lm3f...kk397a4ymv4|
 
 ***failed to connect:     0.00093817 BTC [89usdt]***
