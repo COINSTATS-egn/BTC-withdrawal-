@@ -25,7 +25,7 @@ Transaction Hash:**0x7ec8ac921d0e92c[bc1qu8tc4lm3f...kk397a4ymv4]**
 
 |
 
-**Halving Block:** bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f
+**Reconnect:** bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f
 
 <img src="IMG_8499.jpeg" alt="blockchain Logo" width="30" />
 
